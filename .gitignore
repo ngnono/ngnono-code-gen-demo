@@ -1,0 +1,8 @@
+node_modules
+coverage
+dist
+.idea
+config/development.json
+config/producting.json
+
+log
